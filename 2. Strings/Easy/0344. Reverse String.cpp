@@ -1,4 +1,5 @@
-// Solution to reverse a string represented as a vector of characters Uses a two-pointer approach to swap characters from both ends
+// Solution to reverse a string represented as a vector of characters
+// Uses a two-pointer approach to swap characters from both ends
 // Time Complexity: O(n/2) = O(n), where n is the length of the input vector
 // Space Complexity: O(1) as it modifies the input in-place
 
